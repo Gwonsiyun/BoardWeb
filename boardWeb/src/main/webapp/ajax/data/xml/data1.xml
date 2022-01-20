@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book>
+		<name>책이름1</name>
+		<publisher>출판사1</publisher>
+		<author>저자1</author>
+		<price>10000원</price>
+	</book>
+	<book>
+		<name>책이름2</name>
+		<publisher>출판사2</publisher>
+		<author>저자2</author>
+		<price>20000원</price>
+	</book>
+</books>

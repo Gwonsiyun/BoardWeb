@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+header{
+	height:15vh;
+	background: lightgray;
+	
+}
+
+
+footer{
+	height: 13vh;
+	background: black;
+	color: white;
+	text-align: center;
+}
+.loginArea{
+	position:absolute;
+	right: 10px;
+	top: 10px;
+}

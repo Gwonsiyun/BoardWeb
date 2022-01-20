@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<name>아이템1</name>
+		<subItem>
+			<name>아이템1_1</name>
+			<content>아이템1의 서브1입니다.</content>
+		</subItem>
+		<subItem>
+			<name>아이템1_2</name>
+			<content>아이템1의 서브2입니다.</content>
+		</subItem>
+	</item>
+	<item>
+		<name>아이템2</name>
+		<subItem>
+			<name>아이템2_1</name>
+			<content>아이템2의 서브1입니다.</content>
+		</subItem>
+		<subItem>
+			<name>아이템2_2</name>
+			<content>아이템2의 서브2입니다.</content>
+		</subItem>
+	</item>
+</items>

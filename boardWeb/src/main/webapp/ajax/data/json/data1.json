@@ -1,0 +1,11 @@
+[{
+	"name"		: "책1",
+	"publisher"	: "출판사1",
+	"author"	: "저자1",
+	"price"		: "10000원"
+},{
+	"name"		: "책2",
+	"publisher"	: "출판사2",
+	"author"	: "저자2",
+	"price"		: "20000원"
+}]
