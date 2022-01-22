@@ -24,7 +24,7 @@
 		}else{
 			location.href = "member/list.jsp";
 		}
-		
+		//
 	}
 </script>
 </head>
